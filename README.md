@@ -26,4 +26,4 @@ All data is visualized on a **Node-RED dashboard** (web & mobile) and stored on 
 
 ## Full Report
 
-The complete project report — including literature review, system design, circuit diagrams, methodology, results, and data analysis — is available in this repository: IOTBASED SUPPLY CHAIN OF FROZEN FOOD MONITORING MUHAMMAD HAZIQ BIN ROZMAN.pdf
+The complete project report — including literature review, system design, circuit diagrams, methodology, results, and data analysis — is available in this repository: [IOTBASED SUPPLY CHAIN OF FROZEN FOOD MONITORING MUHAMMAD HAZIQ BIN ROZMAN.pdf](https://github.com/haziqrozman/IOT--BASED-SUPPLY-CHAIN-OF-FROZEN-FOOD-MONITORING/blob/c50c21ead2e905137703e1940a82e14c973ba06f/IOTBASED%20SUPPLY%20CHAIN%20OF%20FROZEN%20FOOD%20MONITORING%20MUHAMMAD%20HAZIQ%20BIN%20ROZMAN.pdf)
