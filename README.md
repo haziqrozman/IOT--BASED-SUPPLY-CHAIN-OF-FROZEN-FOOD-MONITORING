@@ -4,7 +4,7 @@
 
 ## About
 
-This is my final year project submitted as part of my Bachelor's degree in Information Technology (Hons) in Internet Of Things at Universiti Kuala Lumpur(2021 – 2025). The project explores how IoT technology can be applied to real-world supply chain challenges — specifically in monitoring frozen food during transportation and storage.
+This is my final year project submitted as part of my Bachelor's degree in Information Technology (Hons) in Internet Of Things at Universiti Kuala Lumpur (2021 – 2025). The project explores how IoT technology can be applied to real-world supply chain challenges, specifically in monitoring frozen food during transportation and storage.
 
 The system prototype integrates temperature sensing, real-time GPS tracking, RFID-based access control, and a live web/mobile dashboard, all connected through an ESP32 microcontroller and cloud infrastructure.
 
